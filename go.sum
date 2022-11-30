@@ -1,3 +1,5 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/rwxrob/bonzai v0.20.5 h1:ZBF3Nob82e7xVJIdB8kZoU3fZXKulx4Nh8D4VO3elts=
 github.com/rwxrob/bonzai v0.20.5/go.mod h1:QmLf6NXoVtTf3pY7eYR4+k9daz2bdRiiq5ArFckAW3E=
 github.com/rwxrob/compcmd v0.3.0 h1:AlJNItb7+Yk17qmH5E7TJFyBXhna/rS3NeQAgjqbFls=

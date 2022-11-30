@@ -5,6 +5,7 @@ go 1.19
 require github.com/rwxrob/bonzai v0.20.5
 
 require (
+	github.com/google/uuid v1.3.0
 	github.com/rwxrob/compcmd v0.3.0 // indirect
 	github.com/rwxrob/fn v0.3.3 // indirect
 	github.com/rwxrob/help v0.7.0
