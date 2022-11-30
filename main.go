@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/arnaudmorisset/z/apikey"
 	"github.com/arnaudmorisset/z/greetings"
 	Z "github.com/rwxrob/bonzai/z"
 	"github.com/rwxrob/help"
@@ -14,7 +15,7 @@ var Cmd = &Z.Cmd{
 	License:   `Apache-2.0`,
 	Source:    `https://github.com/arnaudmorisset/z`,
 	Issues:    `https://github.com/arnaudmorisset/z/issues`,
-	Commands:  []*Z.Cmd{help.Cmd, greetings.Cmd},
+	Commands:  []*Z.Cmd{help.Cmd, greetings.Cmd, apikey.Cmd},
 }
 
 func main() {
